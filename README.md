@@ -1,7 +1,7 @@
 <div>
 <a href="https://github.com/danterkive">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danterkive&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danterkive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danterkive&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=danterkive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 [<img align="left" width="150" alt="🦑" src="[https://www.youtube.com/watch?v=u3IAybZOt-E](https://www.youtube.com/watch?v=u3IAybZOt-E)">](#)
