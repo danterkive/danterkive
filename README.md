@@ -28,7 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danterkive&label=Profile%20views&color=0e75b6&style=flat"
 
-alt="danterkive" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danterkive" alt="danterkive" /></a> </p>
+alt="danterkive" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danterkive"
 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
