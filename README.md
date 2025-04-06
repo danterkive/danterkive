@@ -1,19 +1,4 @@
 
-[<img align="left" width="150" alt="🦑" src="[https://www.youtube.com/watch?v=u3IAybZOt-E](https://www.youtube.com/watch?v=u3IAybZOt-E)">](#)
-[<img align="right" width="160" alt="🦑" src="https://count.getloli.com/get/@:danterkive?theme=rule34">](https://www.youtube.com/watch?v=u3IAybZOt-E)
-
-![lain](https://github.com/user-attachments/assets/14ad6aa9-1b46-4054-9423-2035fe90d92d)
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
   <a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=p0qt2aq59igfz1ob50qc2w20p&count=5" alt="Spotify recently played"  />
@@ -60,7 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+### 
+[<img align="left" width="150" alt="🦑" src="[https://www.youtube.com/watch?v=u3IAybZOt-E](https://www.youtube.com/watch?v=u3IAybZOt-E)">](#)
+
+![lain](https://github.com/user-attachments/assets/14ad6aa9-1b46-4054-9423-2035fe90d92d)
+
 
 <br clear="both">
 
