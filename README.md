@@ -1,3 +1,20 @@
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danterkive/danterkive/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danterkive/danterkive/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danterkive/danterkive/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+
+
+
+
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p">
