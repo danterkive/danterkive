@@ -1,11 +1,5 @@
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p0qt2aq59igfz1ob50qc2w20p&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
@@ -49,8 +43,18 @@
 ### 
 [<img align="left" width="150" alt="🦑" src="[https://www.youtube.com/watch?v=u3IAybZOt-E](https://www.youtube.com/watch?v=u3IAybZOt-E)">](#)
 
+
+
 ![lain](https://github.com/user-attachments/assets/14ad6aa9-1b46-4054-9423-2035fe90d92d)
 
+
+
+
+<div align="left">
+  <a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p0qt2aq59igfz1ob50qc2w20p&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 <br clear="both">
 
