@@ -13,6 +13,11 @@
 [<img align="right" width="390" alt="🦑" src="./medias.svg?p">](https://anilist.co/user/danterkive/)
 [<img align="right" width="390" height="80" alt="🦑" src="./placeholder.svg">](#)
 
+[<img align="left" width="390" alt="🦑" src="./music-recent.svg">](https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p)
+[<img align="right" width="390" alt="🦑" src="./steam-recent.svg">](https://steamcommunity.com/id/harukixchu)
+
+[<img width="100%" height="1" alt="🦑" src="./placeholder.svg">](#)
+
 [<img align="left" width="390" alt="🦑" src="./github-metrics.svg">](https://github.com/danterkive)
 [<img align="right" width="390" alt="🦑" src="./metrics.plugin.isocalendar.svg">](https://github.com/danterkive)
 
