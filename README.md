@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://github.com/danterkive"><img src="./assets/cyber-01.webp" width="100%" alt="profile visual"></a>
-</p>
 
-> Want to know what I'm currently working on ?\
-> I'm currently studying **Quality Assurance** at [EBAC](https://ebaconline.com.br/engenheiro-de-qualidade).
->
-> [GitHub @danterkive](https://github.com/danterkive) · [AniList @danterkive](https://anilist.co/user/danterkive/) · [Steam @dantenerd](https://steamcommunity.com/id/dantenerd/)
 
 [<img align="left" width="390" alt="GitHub profile metrics" src="./general.svg">](https://github.com/danterkive)
 [<img align="right" width="390" alt="Contribution calendar" src="./metrics.plugin.isocalendar.svg">](https://github.com/danterkive)
@@ -53,4 +46,3 @@
   </tr>
 </table>
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
