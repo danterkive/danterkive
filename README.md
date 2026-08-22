@@ -1,83 +1,114 @@
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+# danterkive
+
+### 🧪 Quality Assurance • ADS Student
+
+![header](https://github.com/user-attachments/assets/14ad6aa9-1b46-4054-9423-2035fe90d92d)
+
 </div>
 
-### 
-[<img align="left" width="150" alt="🦑" src="[https://www.youtube.com/watch?v=u3IAybZOt-E](https://www.youtube.com/watch?v=u3IAybZOt-E)">](#)
+---
 
+## `> whoami`
 
+```txt
+name: Dante
+focus: Quality Assurance
+currently: studying software quality & testing
+interests: technology • games • music • anime & manga
+```
 
-![lain](https://github.com/user-attachments/assets/14ad6aa9-1b46-4054-9423-2035fe90d92d)
+## 🧪 QA
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</p>
 
+<p align="center">
+  Manual Testing • Test Cases • Bug Reporting • API Testing • Test Automation
+</p>
 
+---
 
-<div align="left">
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" width="100%" alt="Isometric contribution calendar" />
+</p>
+
+---
+
+## 🎧 Music
+
+<p align="center">
   <a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p0qt2aq59igfz1ob50qc2w20p&count=5" alt="Spotify recently played"  />
+    <img src="./metrics.plugin.music.svg" width="100%" alt="Spotify activity" />
   </a>
-</div>
+</p>
 
-<br clear="both">
+---
+
+## 🎮 Steam
+
+<p align="center">
+  <a href="https://steamcommunity.com/id/harukixchu">
+    <b>harukixchu</b>
+  </a>
+</p>
+
+---
+
+## 🌸 Favorite Anime & Manga
 
 <div align="center">
-  <a href="123dantezinho" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="dwn.te" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="dwnte" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
+**Zankyou no Terror** • **Dungeon Meshi** • **The Guy She Was Interested In Wasn't a Guy at All**
+
 </div>
 
-###
+---
 
-<p align="left"></p>
+## ⭐ Favorite Characters
 
-###
+<details open>
+<summary><b>favorites.exe</b></summary>
 
-<br clear="both">
+<br>
+
+**Jujutsu Kaisen**  
+Yuta Okkotsu • Suguru Geto • Satoru Gojo • Choso • Toge Inumaki
+
+**Zankyou no Terror**  
+Nine • Twelve
+
+**The Guy She Was Interested In Wasn't a Guy at All**  
+Mitsuki Koga • Aya Oosawa
+
+**Naruto**  
+Naruto Uzumaki • Sasuke Uchiha
+
+**Avatar: The Last Airbender**  
+Zuko • Aang
+
+**Tokyo Ghoul**  
+Ken Kaneki
+
+**Adventure Time**  
+Marceline
+
+</details>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danterkive&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=danterkive&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+### `connection closed.`
+
 </div>
