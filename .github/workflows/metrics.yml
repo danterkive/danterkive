@@ -16,7 +16,6 @@ jobs:
 
     steps:
       - name: 🦑 General profile
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
@@ -34,11 +33,10 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-      - name: 📅 Contributions calendar
-        if: ${{ success() || failure() }}
+      - name: 📅 Full-year contributions calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: contributions.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.TOKEN }}
           user: danterkive
           base: ""
@@ -47,10 +45,9 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - name: 🏆 Achievements
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.TOKEN }}
           user: danterkive
           base: ""
@@ -59,22 +56,20 @@ jobs:
           plugin_achievements_threshold: X
 
       - name: 🏷️ Starred topics
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: topics.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.topics.svg
+          token: ${{ secrets.TOKEN }}
           user: danterkive
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 18
+          plugin_topics_limit: 0
 
-      - name: ⭐ Star lists and languages
-        if: ${{ success() || failure() }}
+      - name: ⭐ Star lists
         uses: lowlighter/metrics@latest
         with:
-          filename: starlists.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.starlists.svg
+          token: ${{ secrets.TOKEN }}
           user: danterkive
           base: ""
           plugin_starlists: yes
@@ -82,27 +77,48 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 0
 
-      - name: 🌸 AniList favorites and characters
-        if: ${{ success() || failure() }}
+      - name: 🌸 Favorite anime
         uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: metrics.plugin.anilist.svg
           token: NOT_NEEDED
-          user: danterkive
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: danterkive
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, characters
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites
           plugin_anilist_limit: 3
+          plugin_anilist_shuffle: no
+
+      - name: 📚 Favorite manga
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.manga.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: danterkive
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites
+          plugin_anilist_limit: 1
+          plugin_anilist_shuffle: no
+
+      - name: 🌸 Favorite characters
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.characters.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: danterkive
+          plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: no
 
       - name: 🎧 Recently played on Spotify
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: music-recent.svg
+          filename: metrics.plugin.music.recent.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
@@ -113,10 +129,9 @@ jobs:
           plugin_music_played_at: yes
 
       - name: 🎮 Recently played on Steam
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: steam-recent.svg
+          filename: metrics.plugin.steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam: yes
