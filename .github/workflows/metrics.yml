@@ -53,3 +53,18 @@ jobs:
           plugin_music: yes
           plugin_music_playlist: ${{ secrets.PLAYLIST }}
           plugin_music_limit: 6
+
+      - name: 🌸 AniList favorites and characters
+        uses: lowlighter/metrics@latest
+        with:
+          token: NOT_NEEDED
+          user: danterkive
+          filename: metrics.plugin.anilist.svg
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: danterkive
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 3
+          plugin_anilist_limit_characters: 15
+          plugin_anilist_shuffle: no
