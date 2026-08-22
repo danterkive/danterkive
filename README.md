@@ -1,60 +1,28 @@
-<div align="center">
+> studying **Quality Assurance** and software testing  
+> GitHub: [@danterkive](https://github.com/danterkive) · AniList: [@danterkive](https://anilist.co/user/danterkive/) · [Spotify](https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p) · [Steam](https://steamcommunity.com/id/harukixchu)
 
-<a href="https://github.com/danterkive"><img src="https://github.com/user-attachments/assets/14ad6aa9-1b46-4054-9423-2035fe90d92d" width="100%" alt="header"></a>
+[<img align="left" width="390" alt="metrics" src="./general.svg">](https://github.com/danterkive)
+[<img align="right" width="390" alt="anime manga music and characters" src="./medias.svg">](https://anilist.co/user/danterkive/)
 
-# `danterkive`
+[<img align="right" width="390" alt="cyber visual" src="./assets/tumblr_fb7055b3934933b24281c386ceda6f84_2c5b674f_540.webp">](https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p)
 
-**Quality Assurance · software testing · technology**
-
-<a href="https://github.com/danterkive"><img src="https://img.shields.io/badge/GitHub-danterkive-181717?style=for-the-badge&logo=github"></a>
-<a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p"><img src="https://img.shields.io/badge/Spotify-profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/harukixchu"><img src="https://img.shields.io/badge/Steam-harukixchu-171a21?style=for-the-badge&logo=steam&logoColor=white"></a>
-
-</div>
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-### `> status`
-
-```txt
-focus      quality assurance
-studying   software quality & testing
-interests  games / music / anime / manga
-```
-
-### `> qa.toolbox`
-
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="38" alt="Git"></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub"></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="38" alt="VS Code"></a>
-<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="38" alt="Postman"></a>
-
-`manual testing` `test cases` `bug reporting` `API testing` `test automation`
-
-</td>
-<td width="44%" align="center" valign="middle">
-
-<img src="./assets/cyber-01.webp" width="100%" alt="cyber visual">
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/danterkive"><img align="left" width="390" src="./github-metrics.svg" alt="GitHub metrics"></a>
-<a href="https://github.com/danterkive"><img align="right" width="390" src="./metrics.plugin.isocalendar.svg" alt="Contribution calendar"></a>
+[<img align="left" width="390" alt="cyber visual" src="./assets/tumblr_a8f1b3224d6d02bc55c0f3c611b2ae57_ef840b75_540.webp">](https://github.com/danterkive)
+[<img align="right" width="390" alt="cyber visual" src="./assets/tumblr_c84186e3b267350bf75918a4bd32d6ba_b4ecbafb_540.webp">](https://steamcommunity.com/id/harukixchu)
 
 <img width="100%" height="12" alt="">
 
-<a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p"><img align="left" width="390" src="./metrics.plugin.music.svg" alt="Spotify"></a>
-<a href="https://anilist.co/user/danterkive/"><img align="right" width="390" src="./metrics.plugin.anilist.svg" alt="Favorite anime manga and characters"></a>
+[<img align="left" width="390" alt="cyber visual" src="./assets/tumblr_f6c3f4c737753caa8cd21da6aad87d39_92b8bc6a_540.webp">](https://github.com/danterkive)
+[<img align="right" width="390" alt="cyber visual" src="./assets/tumblr_461577a0b7ad808375ffb68d945b9a14_6282530a_500.webp">](https://anilist.co/user/danterkive/)
 
 <img width="100%" height="12" alt="">
 
-<div align="center">
-<a href="https://steamcommunity.com/id/harukixchu"><img src="https://img.shields.io/badge/Steam-harukixchu-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-<a href="https://anilist.co/user/danterkive/"><img src="https://img.shields.io/badge/AniList-danterkive-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList"></a>
-</div>
+[<img align="left" width="390" alt="cyber visual" src="./assets/tumblr_663c6e2c30d2d8c91d44117114e07b40_12a94bff_500.webp">](https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p)
+[<img align="right" width="390" alt="cyber visual" src="./assets/tumblr_7ad9006e4624f483774124959c9e6fd3_0632e574_540.webp">](https://steamcommunity.com/id/harukixchu)
+
+<img width="100%" height="12" alt="">
+
+[<img align="right" width="390" alt="cyber visual" src="./assets/tumblr_1c8e26fcbaf6d0ccd13ed1591441684a_33735448_540.webp">](https://github.com/danterkive)
 
 <img width="100%" height="1" alt="">
+
+<sub>Infographics generated with [lowlighter/metrics](https://github.com/lowlighter/metrics). Visuals are from this profile's own <code>assets/</code> folder.</sub>
