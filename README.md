@@ -42,85 +42,19 @@ interests  games / music / anime / manga
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/danterkive"><img align="left" width="390" src="./github-metrics.svg" alt="GitHub metrics"></a>
+<a href="https://github.com/danterkive"><img align="right" width="390" src="./metrics.plugin.isocalendar.svg" alt="Contribution calendar"></a>
 
-### `github://activity`
+<img width="100%" height="12" alt="">
 
-<a href="https://github.com/danterkive"><img src="./github-metrics.svg" width="100%" alt="GitHub metrics"></a>
+<a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p"><img align="left" width="390" src="./metrics.plugin.music.svg" alt="Spotify"></a>
+<a href="https://anilist.co/user/danterkive/"><img align="right" width="390" src="./metrics.plugin.anilist.svg" alt="Favorite anime manga and characters"></a>
 
-</td>
-<td width="50%" valign="top">
-
-### `github://contributions`
-
-<a href="https://github.com/danterkive"><img src="./metrics.plugin.isocalendar.svg" width="100%" alt="Contribution calendar"></a>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `spotify://recommendations`
-
-<a href="https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p"><img src="./metrics.plugin.music.svg" width="100%" alt="Spotify music"></a>
-
-</td>
-<td width="50%" valign="top">
-
-### `steam://harukixchu`
-
-<a href="https://steamcommunity.com/id/harukixchu"><img src="https://img.shields.io/badge/open_steam_profile-harukixchu-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam profile"></a>
-
-<br><br>
-
-`games` · `recent activity` · `library`
-
-</td>
-</tr>
-</table>
-
-### `media://favorites`
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://anilist.co/anime/20661/Zankyou-no-Terror/"><b>Zankyou no Terror</b></a><br>
-<sub>Nine · Twelve</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://anilist.co/anime/153518/Dungeon-Meshi/"><b>Dungeon Meshi</b></a><br>
-<sub>favorite anime</sub>
-</td>
-<td align="center" width="34%">
-<a href="https://anilist.co/manga/149544/The-Guy-She-Was-Interested-In-Wasnt-a-Guy-at-All/"><b>The Guy She Was Interested In Wasn't a Guy at All</b></a><br>
-<sub>Mitsuki · Aya</sub>
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>★ favorite characters</b></summary>
-<br>
-
-**Jujutsu Kaisen** — Yuta Okkotsu · Suguru Geto · Satoru Gojo · Choso · Toge Inumaki  
-**Zankyou no Terror** — Nine · Twelve  
-**The Guy She Was Interested In Wasn't a Guy at All** — Mitsuki Koga · Aya Oosawa  
-**Naruto** — Naruto Uzumaki · Sasuke Uchiha  
-**Avatar: The Last Airbender** — Zuko · Aang  
-**Tokyo Ghoul** — Ken Kaneki  
-**Adventure Time** — Marceline
-
-</details>
+<img width="100%" height="12" alt="">
 
 <div align="center">
-
-<br>
-
-`[ end of transmission ]`
-
+<a href="https://steamcommunity.com/id/harukixchu"><img src="https://img.shields.io/badge/Steam-harukixchu-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+<a href="https://anilist.co/user/danterkive/"><img src="https://img.shields.io/badge/AniList-danterkive-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList"></a>
 </div>
+
+<img width="100%" height="1" alt="">
