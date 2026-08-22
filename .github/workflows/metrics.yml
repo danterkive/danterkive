@@ -75,4 +75,5 @@ jobs:
           plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
           plugin_steam_sections: recently-played
           plugin_steam_recent_games_limit: 4
-          plugin_steam_achievements_limit: 0
+          plugin_steam_achievements_limit: 5
+          plugin_steam_playtime_threshold: 0
