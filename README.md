@@ -5,7 +5,7 @@
 > Want to know what I'm currently working on ?\
 > I'm currently studying **Quality Assurance** at [EBAC](https://ebaconline.com.br/engenheiro-de-qualidade).
 >
-> [GitHub @danterkive](https://github.com/danterkive) · [AniList @danterkive](https://anilist.co/user/danterkive/) · [Spotify](https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p) · [Steam @harukixchu](https://steamcommunity.com/id/harukixchu)
+> [GitHub @danterkive](https://github.com/danterkive) · [AniList @danterkive](https://anilist.co/user/danterkive/) · [Steam @dantenerd](https://steamcommunity.com/id/dantenerd/)
 
 [<img align="left" width="390" alt="GitHub profile metrics" src="./general.svg">](https://github.com/danterkive)
 [<img align="right" width="390" alt="Contribution calendar" src="./metrics.plugin.isocalendar.svg">](https://github.com/danterkive)
@@ -25,7 +25,7 @@
 </table>
 
 [<img align="left" width="390" alt="Star lists" src="./metrics.plugin.starlists.svg">](https://github.com/danterkive?tab=stars)
-[<img align="right" width="390" alt="Recently played on Spotify" src="./metrics.plugin.music.recent.svg">](https://open.spotify.com/user/p0qt2aq59igfz1ob50qc2w20p)
+[<img align="right" width="390" alt="Recently played on Steam" src="./metrics.plugin.steam.svg">](https://steamcommunity.com/id/dantenerd/)
 
 [<img width="100%" height="1" alt="spacer" src="./placeholder.svg">](#)
 
@@ -36,13 +36,12 @@
   </tr>
 </table>
 
-[<img align="left" width="390" alt="Recently played on Steam" src="./metrics.plugin.steam.svg">](https://steamcommunity.com/id/harukixchu)
-[<img align="right" width="390" alt="Favorite anime" src="./metrics.plugin.anilist.svg">](https://anilist.co/user/danterkive/)
+[<img align="left" width="390" alt="Favorite anime" src="./metrics.plugin.anilist.svg">](https://anilist.co/user/danterkive/)
+[<img align="right" width="390" alt="Favorite manga" src="./metrics.plugin.anilist.manga.svg">](https://anilist.co/user/danterkive/)
 
 [<img width="100%" height="1" alt="spacer" src="./placeholder.svg">](#)
 
-[<img align="left" width="390" alt="Favorite manga" src="./metrics.plugin.anilist.manga.svg">](https://anilist.co/user/danterkive/)
-[<img align="right" width="390" alt="Favorite characters" src="./metrics.plugin.anilist.characters.svg">](https://anilist.co/user/danterkive/)
+[<img align="left" width="780" alt="Favorite characters" src="./metrics.plugin.anilist.characters.svg">](https://anilist.co/user/danterkive/)
 
 [<img width="100%" height="1" alt="spacer" src="./placeholder.svg">](#)
 
